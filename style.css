@@ -1,0 +1,23 @@
+body
+{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px rgb(1, 59, 46);
+}
+.note
+{
+    font-size: 15px;
+}
+canvas
+{
+    border: 2px solid rgb(2, 57, 42);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(2, 102, 79);
+}
